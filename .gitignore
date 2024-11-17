@@ -1,0 +1,13 @@
+# Ignore config files with secrets
+config.py
+.env
+service_account.json
+.DS_Store
+config.py
+.gitignorey
+.ipynb_checkpoints/
+
+
+# Ignore data files
+data/
+notebooks_not_uploaded/
